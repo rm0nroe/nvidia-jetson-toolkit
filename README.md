@@ -172,7 +172,6 @@ Found an issue or have improvements?
 
 ## Related Projects
 
-- [AI Companion](https://github.com/rm0nroe/ai-companion) - Voice-first AI assistant using this camera setup
 - [RidgeRun IMX708 Driver](https://github.com/RidgeRun/NVIDIA-Jetson-IMX708-RPIV3) - Original driver source
 
 ---
