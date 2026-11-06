@@ -1,4 +1,8 @@
-# NVIDIA Jetson Camera Toolkit
+<p align="center">
+  <img src="assets/banner.svg" alt="NVIDIA Jetson Toolkit for the IMX708 on Orin Nano" width="100%">
+</p>
+
+# NVIDIA Jetson Toolkit
 
 Getting the **Arducam IMX708 / Raspberry Pi Camera Module 3** working on a
 **Jetson Orin Nano** running **JetPack 6.2** — with the exact, hardware-tested

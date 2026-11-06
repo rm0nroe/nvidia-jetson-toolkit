@@ -4,7 +4,7 @@ This file provides context for AI assistants working on this repository.
 
 ## Project Overview
 
-NVIDIA Jetson Camera Toolkit - a resource for setting up third-party cameras on NVIDIA Jetson platforms, with working configurations for the Arducam IMX708 on Jetson Orin Nano with JetPack 6.2.
+NVIDIA Jetson Toolkit - a resource for setting up third-party cameras on NVIDIA Jetson platforms, with working configurations for the Arducam IMX708 on Jetson Orin Nano with JetPack 6.2.
 
 ## Repository Structure
 
